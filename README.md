@@ -1,0 +1,2 @@
+# AZHAR_TRAINING_PROBLEMS
+THIS IS A SOLUTION FOR THE PROBLEMS GIVEN IN THE AZHAR TRAINING https://github.com/MohamedAfifii/ProblemSolving--Arabic
